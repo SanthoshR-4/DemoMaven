@@ -1,0 +1,6 @@
+projectKey=DemoMaven:Demo1
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/DemoMaven:Demo1
+ceTaskId=AZMlN6KmgNzqdWzChh23
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AZMlN6KmgNzqdWzChh23
